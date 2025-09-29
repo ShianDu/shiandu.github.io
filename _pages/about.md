@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University</b>, advised by Prof. Xiangyang Ji. Currently, I'm a research intern at the <b>Kling Team, Kuaishou Technology</b>, focusing on <b>Generative Video Super-resolution</b>. Before that, I was fortunate to work with Prof. Delu Zeng at South China University of Technology. Feel free to reach out to me at [shiandu@qq.com](mailto:shiandu@qq.com).
+Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University</b>, advised by Prof. Xiangyang Ji. Currently, I'm a research intern at the <b>Kling Team, Kuaishou Technology</b>, focusing on <b>Generative Video Super-resolution</b> and <b>Multi-modal Video Generation</b>. Before that, I was fortunate to work with Prof. Delu Zeng on <b>Deep Generative Models</b> at South China University of Technology. Feel free to reach out to me at [shiandu@qq.com](mailto:shiandu@qq.com).
 
 **I will be graduating in the summer of 2026 and am currently seeking job opportunities. Please feel free to contact me via email.**
 
@@ -36,7 +36,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/4a734193-cbcd-4f48-9806-b3c07de6cf80" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/unimmvsr.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Shian Du</b>, Menghan Xia, Chang Liu et al.
@@ -65,7 +65,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/4a734193-cbcd-4f48-9806-b3c07de6cf80" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/patchvsr.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Liangbin Xie, Yu Li, <b>Shian Du</b> et al.
@@ -79,7 +79,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/14c31890-d973-431a-ae5b-468f40856d6f" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/patchvsr.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Shian Du</b>, Menghan Xia, Chang Liu et al.
