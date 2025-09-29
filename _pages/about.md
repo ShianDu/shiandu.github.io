@@ -23,10 +23,10 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 <li> <b>2024/08</b>: 1 paper accepted by UAI'25. </li>
 <li> <b>2024/03</b>: Start a research internship at Kling Team, advised by Prof. <a href="https://menghanxia.github.io/">Menghan Xia</a> and Prof. <a href="https://xinntao.github.io/">Xintao Wang</a>. </li>
 <li> <b>2024/03</b>: 1 paper accepted by ECCV'24. </li>
-<li> <b>2023/09</b>: Join Prof. <a href="https://www.au.tsinghua.edu.cn/info/1080/3178.htm">Ji</a>'s lab at Tsinghua University. </li>
+<li> <b>2023/09</b>: Join Prof. <a href="https://www.au.tsinghua.edu.cn/info/1080/3178.htm">Xiangyang Ji</a>'s lab at Tsinghua University. </li>
 <li> <b>2023/08</b>: 1 paper accepted by TNNLS'24. </li>
 <li> <b>2022/03</b>: 1 paper accepted by CVPR'22. </li>
-<li> <b>2021/03</b>: Join Prof. <a href="https://scut-dacim.github.io/probre.html">Zeng</a>'s lab at South China University of Technology. </li>
+<li> <b>2021/03</b>: Join Prof. <a href="https://scut-dacim.github.io/probre.html">Delu Zeng</a>'s lab at South China University of Technology. </li>
   
 </ul>
 
@@ -135,6 +135,8 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
     <span><a href="https://github.com/ShianDu/TO-FLOW">GitHub</a></span><br>
   </td>
 </tr>
+
+</table>
 
 <h2>Experience</h2>
 
