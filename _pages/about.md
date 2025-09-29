@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-Hi there! I'm Shian Du. I am a 3rd-year Master Student at Tsinghua University, advised by Prof. Xiangyang Ji. Currently, I'm a research intern with the Kling Team, focusing on <b>Generative Video Super-resolution<b>. Before that, I was fortunate to work with Prof. Delu Zeng at South China University of Technology. Feel free to reach out to me at [shiandu@qq.com](mailto:shiandu@qq.com).
+Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University</b>, advised by Prof. Xiangyang Ji. Currently, I'm a research intern at the <b>Kling Team, Kuaishou Technology</b>, focusing on <b>Generative Video Super-resolution</b>. Before that, I was fortunate to work with Prof. Delu Zeng at South China University of Technology. Feel free to reach out to me at [shiandu@qq.com](mailto:shiandu@qq.com).
 
 **I will be graduating in the summer of 2026 and am currently seeking job opportunities. Please feel free to contact me via email.**
 
