@@ -50,7 +50,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/simplegvr.png" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/eiwflow.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Wei Chen, <b>Shian Du</b>, Shigui Li et al.
