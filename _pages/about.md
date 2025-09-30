@@ -41,16 +41,16 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
   <td style="border-collapse: collapse; border: none;">
     <b>Shian Du</b>, Menghan Xia, Chang Liu et al.
     "UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution".
-    In <b>Arxiv</b> 2025.<br>
+    In <b>Arxiv 2025</b>.<br>
     <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/abs/2412.07760">PDF</a></span><br>
-    <span><a href="https://camclonemaster.github.io/">Project page</a></span>
+    <span><a href="https://arxiv.org/abs/2499.07765">PDF</a></span><br>
+    <span><a href="https://unimmvsr.github.io/">Project page</a></span>
   </td>
 </tr>
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/14c31890-d973-431a-ae5b-468f40856d6f" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/simplegvr.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Wei Chen, <b>Shian Du</b>, Shigui Li et al.
@@ -65,12 +65,12 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/patchvsr.png" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/simplegvr.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Liangbin Xie, Yu Li, <b>Shian Du</b> et al.
     "SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution".
-    In <b>Arxiv</b> 2025.<br>
+    In <b>Arxiv 2025</b>.<br>
     <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2506.19838">PDF</a></span><br>
     <span><a href="https://simplegvr.github.io/">Project page</a></span>
@@ -92,7 +92,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/14c31890-d973-431a-ae5b-468f40856d6f" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/parco.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Qiran Zou, Shangyuan Yuan, <b>Shian Du</b> et al.
@@ -107,7 +107,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/14c31890-d973-431a-ae5b-468f40856d6f" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/novidgp.png" width="750" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Jian Xu, <b>Shian Du</b>, Junmei Yang et al.
@@ -122,7 +122,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/user-attachments/assets/d6c1e7b3-8a92-4b2d-b87c-4e93ab86581c" width="750" />
+    <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/toflow.png" width="750" />
   </td>
 
   <td style="border-collapse: collapse; border: none;">
@@ -160,7 +160,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
                 </div>
                 May. 2024 - Present <br>
                 Advisor: <a href="https://menghanxia.github.io/">Menghan Xia</a>, <a href="https://xinntao.github.io/">Xintao Wang</a><br>
-                Interests: Generative Video Super-resolution
+                Interests: Generative Video Super-resolution and Multi-modal Video Generation
             </td>
         </tr>
         <tr>
@@ -173,6 +173,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
                 </div>
                 Sep. 2023 - Present <br>
                 Advisor: <a href="https://www.au.tsinghua.edu.cn/info/1080/3178.htm">Xiangyang Ji</a><br>
+                Interests: Generative Video Super-resolution and Multi-modal Video Generation
             </td>
         </tr>
         <tr>
@@ -185,6 +186,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
                 </div>
                 Sep. 2019 - Jun. 2023 <br>
                 Advisor: <a href="https://scut-dacim.github.io/probre.html">Delu Zeng</a><br>
+                Interests: Deep Generative Models
             </td>
         </tr>
     </tbody>
