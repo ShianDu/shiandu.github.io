@@ -86,7 +86,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
     "PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution".
     In <b>CVPR 2025</b>.<br>
     <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Du_PatchVSR_Breaking_Video_Diffusion_Resolution_Limits_with_Patch-wise_Video_Super-Resolution_CVPR_2025_paper.pdf">PDF</a></span><br>
+    <span><a href="https://arxiv.org/abs/2509.26025">PDF</a></span><br>
     <span><a href="https://shiandu.github.io/PatchVSR-website/">Project page</a></span>
   </td>
 </tr>
