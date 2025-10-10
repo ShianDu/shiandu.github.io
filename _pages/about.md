@@ -43,7 +43,7 @@ Hi there! I'm Shian Du. I am a 3rd-year Master Student at <b>Tsinghua University
     "UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution".
     In <b>Arxiv 2025</b>.<br>
     <img src="https://raw.githubusercontent.com/ShianDu/shiandu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/abs/2499.07765">PDF</a></span><br>
+    <span><a href="https://arxiv.org/abs/2510.08143">PDF</a></span><br>
     <span><a href="https://shiandu.github.io/UniMMVSR-website/">Project page</a></span>
   </td>
 </tr>
